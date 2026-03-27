@@ -3,36 +3,66 @@
     "speler": "Quentin V.",
     "personage": "Morgana Van Het Woud",
     "achtergrond": "Beschermster van Avalon, vertrouwt op de kracht van de natuur. Houdt van dieren en de natuur en zal wraak nemen op wie hen bedreigt.",
-    "image": "[placeholder]"
+    "image": "https://raw.githubusercontent.com/ItsJoltix/dungeonsanddragons/refs/heads/main/images/morgana.png"
   },
   {
     "speler": "Jens de Guchteneire",
     "personage": "Thom de knecht",
     "achtergrond": "Thom is een dief die geen dag kan zonder iets te stelen. Hij weigert om geld te gebruiken en steelt van iedereen ongeacht wie.",
-    "image": "[placeholder]"
+    "image": "https://raw.githubusercontent.com/ItsJoltix/dungeonsanddragons/refs/heads/main/images/thom.png"
   },
   {
     "speler": "Thierry Benoit",
-    "personage": "LADY ELIRA",
+    "personage": "Lady Elira",
     "achtergrond": "Een magiër geschoold door de beste magiër in het land. Ze is heel trouw naar haar vrienden maar als je haar veraad zal je 5 keer zo hard boeten. Ze is heel wantrouwig tegenover nieuwe personen.",
-    "image": "[placeholder]"
+    "image": "https://raw.githubusercontent.com/ItsJoltix/dungeonsanddragons/refs/heads/main/images/lady.png"
   },
   {
     "speler": "Lars Alboort",
-    "personage": "Jasper de Nar",
-    "achtergrond": "Een speelse nar die Op het eerste zicht een vriendelijk gezicht lijkt te zijn, door zijn charisma kan hij je al snel foppen maar eigenlijk heeft hij geen goed agenda, Hoewel hij de partij zeker zal helpen Is zijn prioriteit altijd geld en roem, hierdoor zal hij mogelijks anderen in de steek laten",
-    "image": "[placeholder]"
+    "personage": "Jasper De Nar",
+    "achtergrond": "Een speelse nar die op het eerste zicht een vriendelijk gezicht lijkt te zijn, door zijn charisma kan hij je al snel foppen maar eigenlijk heeft hij geen goed agenda, Hoewel hij de partij zeker zal helpen Is zijn prioriteit altijd geld en roem, hierdoor zal hij mogelijks anderen in de steek laten",
+    "image": "https://raw.githubusercontent.com/ItsJoltix/dungeonsanddragons/refs/heads/main/images/jasper.png"
   },
   {
     "speler": "Lars Vermeulen",
     "personage": "Grunthor",
     "achtergrond": "Een man/wezen uit het noorden, verbannen van zen land, beheerst hij de taal amper, ook heeft hij het lastig om zijn emoties onder controle te houden en volgt deze vaak ook. Is goedgelovig maar heeft vaak goeie bedoelingen ondaks zijn nog al lage intelect. Heeft een stiekeme zwak voor dieren. Haat mensen maar muren nog meer.",
-    "image": "[placeholder]"
+    "image": "https://raw.githubusercontent.com/ItsJoltix/dungeonsanddragons/refs/heads/main/images/grunthor.png"
   },
   {
     "speler": "Robbe",
-    "personage": "mathilde de kok",
+    "personage": "Mathilde De Kok",
     "achtergrond": "Mathilde is een zorgzame en slimme kokkin die leeft voor haar keuken. Ze vertrouwt op intuïtie, humor en een goede maaltijd om problemen op te lossen en de groep bij elkaar te houden. Soms is ze koppig en snel afgeleid door lekker eten, maar haar doorzettingsvermogen en warme persoonlijkheid maken haar onmisbaar.",
-    "image": "[placeholder]"
+    "image": "https://raw.githubusercontent.com/ItsJoltix/dungeonsanddragons/refs/heads/main/images/mathilde.png"
+  },
+  {
+    "speler": "Jelle Michiels",
+    "personage": "Kael Virethorn",
+    "achtergrond": "Opgegroeid in een harde wereld zonder vertrouwen. Zoekt kracht en controle, maar worstelt met zijn verleden. Vecht niet alleen om te winnen, maar om beter te worden.",
+    "image": "https://raw.githubusercontent.com/ItsJoltix/dungeonsanddragons/refs/heads/main/images/kael.png"
+  },
+  {
+    "speler": "Jan Persan",
+    "personage": "Aurelian Persan",
+    "achtergrond": "Geniale magiër die de wereld ziet als een verzameling formules en wetten. Gebruikt logica en kennis om elke tegenstander te slim af te zijn. Gelooft dat zelfs magie uiteindelijk te verklaren valt.",
+    "image": "https://raw.githubusercontent.com/ItsJoltix/dungeonsanddragons/refs/heads/main/images/persan.png"
+  },
+  {
+    "speler": "Flor Roesbeke",
+    "personage": "Florian Roesbeke",
+    "achtergrond": "Meester van taal en retoriek, met woorden scherper dan staal. Bespeelt geesten zoals anderen een zwaard hanteren. Weet dat de juiste zin een strijd kan winnen vóór die begint.",
+    "image": "https://raw.githubusercontent.com/ItsJoltix/dungeonsanddragons/refs/heads/main/images/roesbeke.png"
+  },
+  {
+    "speler": "Tim Martens",
+    "personage": "Timmy Tijger",
+    "achtergrond": "Een felle krijger met de geest van oude roofdieren. Kent de geschiedenis van oorlogen en rijken als geen ander. Slaat toe met de snelheid en kracht van een sabeltandtijger.",
+    "image": "https://raw.githubusercontent.com/ItsJoltix/dungeonsanddragons/refs/heads/main/images/timmy.png"
+  },
+  {
+    "speler": "Audrey Proot",
+    "personage": "Aurelia Proot",
+    "achtergrond": "Een engelachtig wezen van puur licht en zachtheid. Haar aanwezigheid brengt rust, haar blik ontneemt adem. Zelfs de duisternis buigt voor haar stralende ziel.",
+    "image": "https://raw.githubusercontent.com/ItsJoltix/dungeonsanddragons/refs/heads/main/images/aurelia.png"
   }
 ]
